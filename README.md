@@ -7,4 +7,4 @@ And the winnder is determined by whether the sum of both choices is odd or even.
 For instance if the computer the user chooses the even side, and the sum is even. the user wins.
 
 
-![ScreenShot] (https://github.com/Ahmed-Gebril/Odds-Or-Evens/blob/master/javaPNG.PNG)
+![Alt text](https://github.com/Ahmed-Gebril/Odds-Or-Evens/blob/master/javaPNG.PNG)
